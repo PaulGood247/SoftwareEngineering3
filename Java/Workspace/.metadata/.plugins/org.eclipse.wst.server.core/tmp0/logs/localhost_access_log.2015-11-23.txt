@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Nov/2015:12:06:49 +0000] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:06:53 +0000] "GET /SE3_WebAppExample/listUser.jsp HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:16:34 +0000] "GET /SE3_WebAppExample/listUser.jsp HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:16:45 +0000] "GET /SE3_WebAppExample/listUser.jsp HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:18:11 +0000] "GET /SE3_WebAppExample/listUser.jsp HTTP/1.1" 200 413
+127.0.0.1 - - [23/Nov/2015:12:19:22 +0000] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:19:23 +0000] "GET /SE3_WebAppExample/login.html HTTP/1.1" 200 892
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:19:44 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 814
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:19:47 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 500 1639
+127.0.0.1 - - [23/Nov/2015:12:22:57 +0000] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:23:06 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 814
+0:0:0:0:0:0:0:1 - - [23/Nov/2015:12:23:08 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 860

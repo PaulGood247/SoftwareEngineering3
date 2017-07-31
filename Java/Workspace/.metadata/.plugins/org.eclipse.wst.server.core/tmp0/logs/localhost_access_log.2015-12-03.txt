@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:11:06:48 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:11:06:50 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 1334
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:11:06:53 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 1803
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:11:07:00 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:11:07:02 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 1475
